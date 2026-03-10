@@ -25,9 +25,7 @@
 
 ### AUTHORS
 
-- [@AbhishekMali21](https://github.com/AbhishekMali21) - **ABHISHEK MALI**
-- [@ManishHundekar](https://github.com/manishhundekar) - **MANISH HUNDERKAR**
-- [@NishchithKulkarni](https://github.com/NishchithKulkarni) - **NISCHINTH KULKARNI**
+- [aravind-4727](https://https://github.com/aravind-4727/projects) - **ARAVIND P**
 
 ### OBJECTIVES
 1. Maintains the details of Sales by Store/Region/State 
